@@ -1,4 +1,7 @@
 libraries{
     gradle
-    febtool
+    febtool.color
+    febtool.paint
+    januarytool.dance
+    januarytool.sing
 }
