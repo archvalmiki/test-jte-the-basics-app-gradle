@@ -1,4 +1,5 @@
 libraries{
     gradle
     januarytool
+    febtool
 }
